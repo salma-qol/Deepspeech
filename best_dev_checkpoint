@@ -1,0 +1,2 @@
+model_checkpoint_path: "/mnt/checkpoints/best_dev-127224"
+all_model_checkpoint_paths: "/mnt/checkpoints/best_dev-127224"
